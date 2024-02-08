@@ -18,3 +18,21 @@ Your task is to create a small shopping app, as showing in picture
 
 ## Deadline: 
 8/2/2024  9:59 AM
+![HM4-2](https://github.com/mohammed0172000/HW-4/assets/82112256/a6418968-329c-4286-a7ca-482326781ed6)
+![Hm4-1](https://github.com/mohammed0172000/HW-4/assets/82112256/f2fdc44d-c66a-4014-afc3-c661bc660b1c)
+
+
+#HomeScreen:
+
+Displays a list of products in a grid layout on the screen.
+Each product is represented by a container containing its image, price, name, and brand.
+Tapping on a product container navigates the user to the SecondScreen to view detailed information about that product.
+
+
+#SecondScreen:
+
+Shows detailed information about a specific product.
+Displays the product's image, price, name, and brand.
+Allows the user to mark the product as a favorite by tapping on a heart icon, which toggles its state.
+Provides an "Add to cart" button, which currently doesn't have functionality implemented (// Handle add to cart action comment).
+Overall, this Flutter app provides a basic interface for browsing and viewing details of products, with the ability to mark favorites and potentially add items to a shopping cart.

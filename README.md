@@ -16,5 +16,22 @@ Your task is to create a small shopping app, as showing in picture
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Deadline: 
 8/2/2024  9:59 AM
